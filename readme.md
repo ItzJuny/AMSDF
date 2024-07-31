@@ -140,13 +140,13 @@ Kindly cite our work if you find it useful.
 
 
 ```
-@ARTICLE{10605761,
+@ARTICLE{wu2024audio,
   author={Wu, Junyan and Yin, Qilin and Sheng, Ziqi and Lu, Wei and Huang, Jiwu and Li, Bin},
   journal={IEEE Transactions on Information Forensics and Security}, 
   title={Audio Multi-view Spoofing Detection Framework Based on Audio-Text-Emotion Correlations}, 
   year={2024},
-  volume={},
+  volume={19},
   number={},
-  pages={1-1},
+  pages={7133-7146},
   doi={10.1109/TIFS.2024.3431888}}
 ```
